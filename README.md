@@ -130,7 +130,7 @@ ffmpeg -version
 ## 👥 Team Members
 
 - Akshat Gupta 
-- Kuldeep Panwar
+- Prashant
 - Sanskar Solanki
 - Nikunj Rathi
 ---
