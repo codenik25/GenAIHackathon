@@ -92,8 +92,8 @@ ffmpeg -version
 
 ## 📊 Example Output
 
-- ✅ Input: Artisan photo + Hindi voice note about handmade pottery
-- ✅ Output:
+✅ Input: Artisan photo + Hindi voice note about handmade pottery
+✅ Output:
 
 - 🎥 Instagram reel (20s, subtitles, background music)
 
